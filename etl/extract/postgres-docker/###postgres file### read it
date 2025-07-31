@@ -1,5 +1,5 @@
  I changed the structure so you don’t have to load the file every time you run Docker. The data’s already inside — you just need to run a couple of commands to access the tables.
- first : download the tar file and docker-compose file here the link  :
+ first : download the tar file and docker-compose file here the link  : https://drive.google.com/drive/folders/1uuzkChHXtIOEmPt6DAs4mLK_vCYulQzd?usp=sharing
  in the folder you download the tar file open cmd type this commands:
  docker load -i my_postgres_with_data.tar
  docker-compose up -d
