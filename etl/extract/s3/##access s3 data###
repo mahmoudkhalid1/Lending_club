@@ -1,0 +1,8 @@
+download aws cli
+open terminal write this commands:
+aws configure
+## add acceees key: in the file i send in whataspp group
+## add secret key : in the file i send in whataspp group
+#region : us-east-1
+## format : json
+aws s3 ls s3://loan-etl-iti-bucket/     , it will show you the folders inside the bucket
